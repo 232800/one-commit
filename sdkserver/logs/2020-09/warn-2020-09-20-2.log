@@ -1,0 +1,2 @@
+[17:06:44:963] [WARN] - org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(ClassPathMapperScanner.java:166) - No MyBatis mapper was found in '[com]' package. Please check your configuration.
+[17:06:48:520] [WARN] - net.sf.ehcache.store.disk.DiskStorageFactory.<init>(DiskStorageFactory.java:174) - The index for data file D:\sdkserver\Tmp_EhCache\role%0043ache.data is out of date, probably due to an unclean shutdown. Deleting index file D:\sdkserver\Tmp_EhCache\role%0043ache.index

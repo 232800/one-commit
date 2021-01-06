@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:develop" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72a53afb-06e0-4cb3-85d3-6d8e08d46f56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/vue/app/config/server_dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/app/config/server_dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/vue/app/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue/app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue/app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/assets/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/vue/app/src/assets/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/app/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/app/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/app/databox/form/Form.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/app/databox/table/BaseTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/app/databox/table/components/Analysis.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/app/databox/table/components/Form.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/app/settingbox/role/Index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/app/settingbox/role/RoleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/BanGongYongFangBiaoZhun.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/ChanQuanBiaoZhun.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/FuWuYongFangBiaoZhun.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/GaiZaoBiaoZhun.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/JianSheBiaoZhun.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/SheBeiYongFangBiaoZhun.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/WeiXiuBiaoZhun.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/ZuLinBiaoZhun.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/js/bangongyongfangbiaozhun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/js/chuanquanbiaozhun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/js/fuwuyongfangbiaozhun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/js/gaizaobiaozhun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/js/jianshebiaozhun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/js/shebeiyongfangbiaozhun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/js/weixiubiaozhun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/biaozhun/js/zulinbiaozhun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/building/FangJianGuanLi.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/building/FangWuGuanLi.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/building/LouCengGuanLi.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/building/LouYuGuanLi.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/building/XiangMuGuanLi.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/building/css/fangwuguanli.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/building/js/fangjianguanli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/building/js/fangwuguanli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/building/js/loucengguanli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/building/js/louyuguanli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/building/js/xiangmuguanli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/component/BasicTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/component/DanWeiCheck.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/component/DataDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/component/DataRelationBind.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/component/DeptCheck.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/component/FangjianStaffInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/component/MapPointSearchComponet.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/component/StaffCheck.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/admin/Index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/Analysis.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/DataView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/Dept.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/House.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/bg/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/css/dept.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/css/house.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/btn1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/btn2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/btn3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/btn33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/btn33h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/btn3h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/btn4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/circle1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/line-title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/line-title1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/menu1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/menu2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/menu3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/menu4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/menu5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/menu6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/menu7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/menu8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/menu9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/images/nav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/js/chartdata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/js/chartdb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/js/dept.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/dashboard/user/js/house.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/drawplan/Floor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/drawplan/SvgDraw.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/drawplan/css/svgdraw.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/drawplan/images/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/drawplan/images/floor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/drawplan/images/floor1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/drawplan/images/floor2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/drawplan/images/floor3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/drawplan/images/floor4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/drawplan/images/floor5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/drawplan/images/floor5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/drawplan/js/svgdraw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/home/Index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/home/components/MyWork.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/home/images/QMap加载WMTS服务(未来能源).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/home/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/home/images/user.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/login/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/app/src/views/login/Index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/map/MapGl.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/map/css/mapGl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/map/img/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/map/img/circle1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/map/img/gov.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/map/img/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/map/js/mapCommonObj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/map/js/mapGl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/map/json/style1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/map/json/style2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/person/BuMenGuanLi.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/person/DanWeiBelong.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/person/DanWeiGuanLi.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/person/RenYuanGuanLi.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/person/YuanGongGuanLi.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/person/css/renyuanguanli.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/person/js/bumenguanli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/person/js/danweibelong.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/person/js/danweiguanli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/person/js/renyuanguanli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/person/js/yuangongguanli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/syshelp/CaoZuoShouCe.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/syshelp/ShuJuZiDian.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/syshelp/js/caozuoshouce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/syshelp/js/shujuzidian.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workdeal/FaHanGuanLi.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workdeal/js/fahanguanli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workflow/components/BasicTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workflow/components/DataDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workflow/house/Deploy.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workflow/house/fangwugaizao.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workflow/house/fangwuweixiu.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workflow/house/hanleixing.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workflow/house/js/Deploy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workflow/house/js/fangwugaizao.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workflow/house/js/fangwuweixiu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workflow/house/js/hanleixing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workflow/house/js/zulinshengqing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/workflow/house/zulinshengqing.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/zhengcefagui/ZhengCeFaGui.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/app/src/views/zhengcefagui/js/zhengcefagui.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1hOIliBlhfWr3CQfqlR3KOcImaU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5167866" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.core.login.app.selfservice.impl" />
+      <recent name="com.core.api.workflow.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\sdkserver\src\main\java\com\core" />
+      <recent name="D:\sdkserver\src\main\java\com\core\login\app\selfservice" />
+      <recent name="D:\sdkserver\src\main\resources\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sdkserver\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestJavaSE">
+    <configuration name="ServerClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/java/jdk1.8.0_65" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ServerClientApplication" />
+      <module name="sdkserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestJavaSE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestJavaSE" />
+      <module name="sdkserver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sbox" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test01" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sbox" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ServerClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ServerClientApplication" />
+      <item itemvalue="Application.TestJavaSE" />
+      <item itemvalue="JUnit.Test01.test" />
+      <item itemvalue="Spring Boot.ServerClientApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestJavaSE" />
+        <item itemvalue="Application.ServerClientApplication" />
+        <item itemvalue="JUnit.Test01.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72a53afb-06e0-4cb3-85d3-6d8e08d46f56" name="Default Changelist" comment="" />
+      <created>1599875864096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599875864096</updated>
+      <workItem from="1599875870491" duration="61000" />
+      <workItem from="1599875981171" duration="2808000" />
+      <workItem from="1599879193032" duration="390000" />
+      <workItem from="1599968373619" duration="278000" />
+      <workItem from="1599968707092" duration="13000" />
+      <workItem from="1599968754308" duration="18711000" />
+      <workItem from="1599990921226" duration="15246000" />
+      <workItem from="1600065577620" duration="18025000" />
+      <workItem from="1600225905535" duration="3116000" />
+      <workItem from="1600236998801" duration="6995000" />
+      <workItem from="1600251323090" duration="1671000" />
+      <workItem from="1600305292462" duration="106000" />
+      <workItem from="1600305452679" duration="1362000" />
+      <workItem from="1600306894627" duration="1942000" />
+      <workItem from="1600311299352" duration="1415000" />
+      <workItem from="1600324479135" duration="1654000" />
+      <workItem from="1600336933249" duration="32000" />
+      <workItem from="1600337018822" duration="18630000" />
+      <workItem from="1600568215371" duration="12431000" />
+      <workItem from="1600592091957" duration="11721000" />
+      <workItem from="1600679655934" duration="35010000" />
+      <workItem from="1600917735418" duration="28249000" />
+      <workItem from="1601273582518" duration="15369000" />
+      <workItem from="1601370007523" duration="957000" />
+      <workItem from="1601371008252" duration="5414000" />
+      <workItem from="1601433795430" duration="33000" />
+      <workItem from="1601433989221" duration="36000" />
+      <workItem from="1601434081151" duration="3755000" />
+      <workItem from="1601597045105" duration="69000" />
+      <workItem from="1601597244067" duration="13000" />
+      <workItem from="1601597629955" duration="8000" />
+      <workItem from="1601597671543" duration="57000" />
+      <workItem from="1601597787669" duration="27385000" />
+      <workItem from="1602486167028" duration="42312000" />
+      <workItem from="1602723598673" duration="13751000" />
+      <workItem from="1602809340064" duration="34000" />
+      <workItem from="1602809450667" duration="22019000" />
+      <workItem from="1603093491368" duration="45010000" />
+      <workItem from="1603353579840" duration="29000" />
+      <workItem from="1603420977253" duration="5402000" />
+      <workItem from="1603441904023" duration="53879000" />
+      <workItem from="1604024748427" duration="9079000" />
+      <workItem from="1604192583711" duration="10598000" />
+      <workItem from="1604278640483" duration="13584000" />
+      <workItem from="1604453286095" duration="14908000" />
+      <workItem from="1604798149890" duration="13026000" />
+      <workItem from="1604989790469" duration="302000" />
+      <workItem from="1604990527834" duration="11236000" />
+      <workItem from="1605162189946" duration="13505000" />
+      <workItem from="1605410523400" duration="713000" />
+      <workItem from="1605412058391" duration="19737000" />
+      <workItem from="1605751042489" duration="46000" />
+      <workItem from="1605751243924" duration="31000" />
+      <workItem from="1605751349552" duration="33000" />
+      <workItem from="1605751436905" duration="3985000" />
+      <workItem from="1606122367817" duration="1743000" />
+      <workItem from="1606184400526" duration="35000" />
+      <workItem from="1606192050533" duration="1034000" />
+      <workItem from="1606358170879" duration="982000" />
+      <workItem from="1606359880804" duration="873000" />
+      <workItem from="1606380647549" duration="19000" />
+      <workItem from="1606462962926" duration="783000" />
+      <workItem from="1606615155546" duration="727000" />
+      <workItem from="1606617677135" duration="15000" />
+      <workItem from="1606617749766" duration="899000" />
+      <workItem from="1606638053076" duration="3623000" />
+      <workItem from="1606697319382" duration="28450000" />
+      <workItem from="1606876584813" duration="7593000" />
+      <workItem from="1606961923533" duration="5636000" />
+      <workItem from="1606977881509" duration="583000" />
+      <workItem from="1606978513088" duration="620000" />
+      <workItem from="1606979195953" duration="137000" />
+      <workItem from="1606979448526" duration="3006000" />
+      <workItem from="1606982807555" duration="7373000" />
+      <workItem from="1607066473378" duration="1172000" />
+      <workItem from="1607219238448" duration="4393000" />
+      <workItem from="1607311701441" duration="6759000" />
+      <workItem from="1607479404546" duration="2625000" />
+      <workItem from="1607586774221" duration="581000" />
+      <workItem from="1607650014316" duration="4471000" />
+      <workItem from="1607830937690" duration="936000" />
+      <workItem from="1607907759218" duration="9239000" />
+      <workItem from="1608017742599" duration="61000" />
+      <workItem from="1608022890832" duration="5665000" />
+      <workItem from="1608172363871" duration="2598000" />
+      <workItem from="1608274743986" duration="876000" />
+      <workItem from="1608430426977" duration="13036000" />
+      <workItem from="1608618396468" duration="20000" />
+      <workItem from="1608618688348" duration="3513000" />
+      <workItem from="1608682975396" duration="1951000" />
+      <workItem from="1608711065855" duration="1489000" />
+      <workItem from="1608713722738" duration="1545000" />
+      <workItem from="1608770167017" duration="3507000" />
+      <workItem from="1608857057824" duration="1846000" />
+      <workItem from="1608859417079" duration="208000" />
+      <workItem from="1608859712414" duration="52000" />
+      <workItem from="1608859840660" duration="632000" />
+      <workItem from="1608860771461" duration="1044000" />
+      <workItem from="1608879898307" duration="6429000" />
+      <workItem from="1609052876293" duration="10146000" />
+      <workItem from="1609289675362" duration="152000" />
+      <workItem from="1609289920500" duration="6398000" />
+      <workItem from="1609381156760" duration="4163000" />
+      <workItem from="1609551402871" duration="9469000" />
+      <workItem from="1609569726865" duration="1270000" />
+      <workItem from="1609571204966" duration="379000" />
+      <workItem from="1609571741674" duration="9304000" />
+      <workItem from="1609640945742" duration="12713000" />
+      <workItem from="1609721891125" duration="9406000" />
+      <workItem from="1609807058430" duration="22030000" />
+      <workItem from="1609838259390" duration="2592000" />
+      <workItem from="1609894022723" duration="30000" />
+      <workItem from="1609894211439" duration="2179000" />
+      <workItem from="1609898776510" duration="4639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="14" key="#ServerClientApplication" timestamp="1606982093127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="366" y="14" key="#ServerClientApplication/0.0.1536.824@0.0.1536.824" timestamp="1606982093127" />
+    <state x="232" y="70" width="1164" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606982217468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="232" y="70" width="1164" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606982217468" />
+    <state x="599" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1609655731011">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606984309352" />
+    <state x="599" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1603.862@0.0.1603.862" timestamp="1609655731011" />
+    <state x="469" y="60" width="539" height="469" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606982029953">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="469" y="60" width="539" height="469" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1606982029953" />
+    <state x="531" y="354" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1609571060618">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="531" y="354" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1603.862@0.0.1603.862" timestamp="1609571060618" />
+    <state x="257" y="0" key="CommitChangelistDialog2" timestamp="1609900013963">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604804701466" />
+    <state x="257" y="0" key="CommitChangelistDialog2/0.0.1603.862@0.0.1603.862" timestamp="1609900013963" />
+    <state x="148" y="64" width="1228" height="688" key="DiffContextDialog" timestamp="1606978249554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="148" y="64" width="1228" height="688" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1606978249554" />
+    <state x="817" y="101" width="438" height="530" key="FileChooserDialogImpl" timestamp="1609902811234">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="482" y="82" width="438" height="530" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607479473805" />
+    <state x="817" y="101" key="FileChooserDialogImpl/0.0.1603.862@0.0.1603.862" timestamp="1609902811234" />
+    <state width="1559" height="315" key="GridCell.Tab.0.bottom" timestamp="1609729665354">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1237" height="269" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607860415692" />
+    <state width="1493" height="269" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607826227371" />
+    <state width="1493" height="243" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1602383043792" />
+    <state width="1559" height="315" key="GridCell.Tab.0.bottom/0.0.1603.862@0.0.1603.862" timestamp="1609729665354" />
+    <state width="1559" height="315" key="GridCell.Tab.0.center" timestamp="1609729665354">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1237" height="269" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607860415692" />
+    <state width="1493" height="269" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607826227370" />
+    <state width="1493" height="243" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1602383043790" />
+    <state width="1559" height="315" key="GridCell.Tab.0.center/0.0.1603.862@0.0.1603.862" timestamp="1609729665354" />
+    <state width="1559" height="315" key="GridCell.Tab.0.left" timestamp="1609729665354">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1237" height="269" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607860415692" />
+    <state width="1493" height="269" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607826227369" />
+    <state width="1493" height="243" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1602383043784" />
+    <state width="1559" height="315" key="GridCell.Tab.0.left/0.0.1603.862@0.0.1603.862" timestamp="1609729665354" />
+    <state width="1559" height="315" key="GridCell.Tab.0.right" timestamp="1609729665354">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1237" height="269" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607860415692" />
+    <state width="1493" height="269" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607826227370" />
+    <state width="1493" height="243" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1602383043790" />
+    <state width="1559" height="315" key="GridCell.Tab.0.right/0.0.1603.862@0.0.1603.862" timestamp="1609729665354" />
+    <state width="1559" height="315" key="GridCell.Tab.1.bottom" timestamp="1609729665354">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606875581032" />
+    <state width="1493" height="243" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1602383043795" />
+    <state width="1559" height="315" key="GridCell.Tab.1.bottom/0.0.1603.862@0.0.1603.862" timestamp="1609729665354" />
+    <state width="1559" height="315" key="GridCell.Tab.1.center" timestamp="1609729665354">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606875581032" />
+    <state width="1493" height="243" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1602383043793" />
+    <state width="1559" height="315" key="GridCell.Tab.1.center/0.0.1603.862@0.0.1603.862" timestamp="1609729665354" />
+    <state width="1559" height="315" key="GridCell.Tab.1.left" timestamp="1609729665354">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606875581032" />
+    <state width="1493" height="243" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1602383043792" />
+    <state width="1559" height="315" key="GridCell.Tab.1.left/0.0.1603.862@0.0.1603.862" timestamp="1609729665354" />
+    <state width="1559" height="315" key="GridCell.Tab.1.right" timestamp="1609729665354">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606875581032" />
+    <state width="1493" height="243" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1602383043794" />
+    <state width="1559" height="315" key="GridCell.Tab.1.right/0.0.1603.862@0.0.1603.862" timestamp="1609729665354" />
+    <state width="1493" height="404" key="GridCell.Tab.2.bottom" timestamp="1603958752585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603958752585" />
+    <state width="1493" height="404" key="GridCell.Tab.2.center" timestamp="1603958752584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1603958752584" />
+    <state width="1493" height="404" key="GridCell.Tab.2.left" timestamp="1603958752584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1603958752584" />
+    <state width="1493" height="404" key="GridCell.Tab.2.right" timestamp="1603958752584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1603958752584" />
+    <state x="312" y="70" key="Maven.ArtifactSearchDialog" timestamp="1609395888246">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1606978906871" />
+    <state x="312" y="70" key="Maven.ArtifactSearchDialog/0.0.1603.862@0.0.1603.862" timestamp="1609395888246" />
+    <state x="349" y="227" key="Registry" timestamp="1606873700385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="227" key="Registry/0.0.1536.824@0.0.1536.824" timestamp="1606873700385" />
+    <state x="588" y="109" key="RollbackChangesDialog" timestamp="1609559444783">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="563" y="104" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606978958871" />
+    <state x="588" y="109" key="RollbackChangesDialog/0.0.1603.862@0.0.1603.862" timestamp="1609559444783" />
+    <state x="268" y="10" width="914" height="717" key="SettingsEditor" timestamp="1609582108412">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="257" y="43" width="914" height="717" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607253188752" />
+    <state x="268" y="10" key="SettingsEditor/0.0.1603.862@0.0.1603.862" timestamp="1609582108412" />
+    <state width="560" height="446" key="SwitcherDM" timestamp="1603087764303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="560" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1603087764303" />
+    <state x="555" y="87" key="VCS.ChangeListViewerDialog" timestamp="1606978621496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="87" key="VCS.ChangeListViewerDialog/0.0.1536.824@0.0.1536.824" timestamp="1606978621496" />
+    <state x="377" y="152" key="Vcs.Push.Dialog.v2" timestamp="1609900102292">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604804540800" />
+    <state x="377" y="152" key="Vcs.Push.Dialog.v2/0.0.1603.862@0.0.1603.862" timestamp="1609900102292" />
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606978332357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606978332357" />
+    <state x="499" y="157" key="extract.method.dialog" timestamp="1602464941576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="157" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1602464941576" />
+    <state x="566" y="143" key="git4idea.branch.GitSmartOperationDialog" timestamp="1609900121175">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="566" y="143" key="git4idea.branch.GitSmartOperationDialog/0.0.1603.862@0.0.1603.862" timestamp="1609900121175" />
+    <state x="555" y="199" key="git4idea.merge.GitMergeDialog" timestamp="1603868059229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="199" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1603868059229" />
+    <state x="461" y="208" key="git4idea.merge.GitPullDialog" timestamp="1609900067846">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="442" y="199" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1606980216901" />
+    <state x="461" y="208" key="git4idea.merge.GitPullDialog/0.0.1603.862@0.0.1603.862" timestamp="1609900067846" />
+    <state x="720" y="227" key="git4idea.ui.GitResetDialog" timestamp="1606979047531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="720" y="227" key="git4idea.ui.GitResetDialog/0.0.1536.824@0.0.1536.824" timestamp="1606979047531" />
+    <state x="624" y="310" key="git4idea.ui.GitStashDialog" timestamp="1606976373393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="624" y="310" key="git4idea.ui.GitStashDialog/0.0.1536.824@0.0.1536.824" timestamp="1606976373393" />
+    <state x="674" y="171" key="git4idea.ui.GitUnstashDialog" timestamp="1606979070245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="674" y="171" key="git4idea.ui.GitUnstashDialog/0.0.1536.824@0.0.1536.824" timestamp="1606979070245" />
+    <state width="314" height="76" key="javadoc.popup.new" timestamp="1609569521088">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="300" height="72" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1601363861689" />
+    <state width="314" height="76" key="javadoc.popup.new/0.0.1603.862@0.0.1603.862" timestamp="1609569521088" />
+    <state x="439" y="95" width="871" height="705" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1609838335662">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="569" y="97" width="834" height="654" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1603953326806" />
+    <state x="439" y="95" width="871" height="705" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1603.862@0.0.1603.862" timestamp="1609838335662" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1602465673121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602465673121" />
+    <state x="720" y="249" width="702" height="710" key="search.everywhere.popup" timestamp="1609838318861">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="690" y="238" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606197610681" />
+    <state x="720" y="249" width="702" height="710" key="search.everywhere.popup/0.0.1603.862@0.0.1603.862" timestamp="1609838318861" />
+    <state x="578" y="99" key="svn.repositoryBrowser" timestamp="1609895937406">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="554" y="95" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1606976896571" />
+    <state x="578" y="99" key="svn.repositoryBrowser/0.0.1603.862@0.0.1603.862" timestamp="1609895937406" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/core/system/repor/controller/ReporController.java</url>
+          <line>74</line>
+          <properties class="com.core.system.repor.controller.ReporController">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
